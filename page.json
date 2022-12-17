@@ -1,26 +1,26 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Software Engineer @Spotify",
-  "image_url": "https://pbs.twimg.com/profile_images/1593630240961662979/hDHYl9MP_400x400.jpg",
+  "name": "Tolga Gezginiş",
+  "description": "Engineering Director @SIMPRA",
+  "image_url": "https://pbs.twimg.com/profile_images/1601669168339849217/AeIMm2IY_400x400.jpg",
   "links": [
     {
       "title": "LinkedIn",
-      "url": "https://linkedin.com/in/fyvz",
+      "url": "https://linkedin.com/in/tgezginis/",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "https://github.com/fatih-yavuz",
+      "url": "https://github.com/tgezginis",
       "icon": "github"
     },
     {
       "title": "Twitter",
-      "url": "https://twitter.com/fthdev",
+      "url": "https://twitter.com/tgezginis",
       "icon": "twitter"
     },
     {
       "title": "Instagram",
-      "url": "https://instagram.com/pusuknane",
+      "url": "https://instagram.com/tgezginis",
       "icon": "instagram"
     }
   ]
